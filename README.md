@@ -28,14 +28,6 @@ A quiz game built using the Groq API, allowing users to play quizzes on various 
 * `/knowledge_check`: Calculate knowledge percentage of user's answer.
 
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request.
-
-
-## License
-
-MIT License
 
 
 ## Contact
